@@ -6,7 +6,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Han",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Java / JavaScript / Angular / Nodejs / SQL and some other cool libraries and frameworks",
+    "A passionate Full Stack Software Developer 🚀 experience in building Web applications with Java / JavaScript / Angular / Nodejs / SQL and some other cool libraries and frameworks",
   resumeLink: "https://drive.google.com/file/d/1YB7N9dYo5-H5JsJq2Ogpkd9QfL1Ij_Gf/view?usp=sharing"
 };
 
