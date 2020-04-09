@@ -4,7 +4,7 @@
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all 👋 I'm Han",
+  title: "Hi all I'm Han",
   subTitle:
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Java / JavaScript / Angular / Nodejs and some other cool libraries and frameworks",
   resumeLink: "https://drive.google.com/file/d/1YB7N9dYo5-H5JsJq2Ogpkd9QfL1Ij_Gf/view?usp=sharing"
@@ -100,8 +100,8 @@ const openSource = {
 const contactInfo = {
   title: "Contact Me ☎️",
   subtitle: "Discuss a project or just want to say hi my inbox is open for all",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "215-289-8950",
+  email_address: "hlin04@gmail.com"
 };
 
 export { greeting, socialMediaLinks, skillsSection, techStack, openSource, contactInfo };
