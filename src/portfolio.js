@@ -5,7 +5,7 @@ const greeting = {
   title: "Hi all I'm Han",
   subTitle:
     "A passionate Full Stack Software Developer 🚀 Experienced in building Web applications with Java / JavaScript / React / Nodejs / SQL and some other cool libraries and frameworks",
-  resumeLink: "https://drive.google.com/file/d/1JDm1nuHts1uqfLwWyTkuBk2wg6ECXBxI/view"
+  resumeLink: "https://drive.google.com/file/d/1JDm1nuHts1uqfLwWyTkuBk2wg6ECXBxI/view?usp=sharing"
 };
 
 // Social Media Link
