@@ -1,16 +1,14 @@
-﻿/* Change this file to get your personal Portfolio */
-
-// Your Summary And Greeting Section
+﻿// Summary And Greeting Section
 
 const greeting = {
-  /* Your Summary And Greeting Section */
+  /* Summary And Greeting Section */
   title: "Hi all I'm Han",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 experience in building Web applications with Java / JavaScript / Angular / Nodejs / SQL and some other cool libraries and frameworks",
-  resumeLink: "https://drive.google.com/file/d/1YB7N9dYo5-H5JsJq2Ogpkd9QfL1Ij_Gf/view?usp=sharing"
+    "A passionate Full Stack Software Developer 🚀 Experienced in building Web applications with Java / JavaScript / React / Nodejs / SQL and some other cool libraries and frameworks",
+  resumeLink: "https://drive.google.com/file/d/1JDm1nuHts1uqfLwWyTkuBk2wg6ECXBxI/view"
 };
 
-// Your Social Media Link
+// Social Media Link
 
 const socialMediaLinks = {
 
@@ -19,7 +17,7 @@ const socialMediaLinks = {
   gmail: "hlin04@gmail.com"
 };
 
-// Your Skills Section
+// Skills Section
 
 const skillsSection = {
   title: "What i do",
@@ -28,9 +26,6 @@ const skillsSection = {
     "⚡ Develop highly interactive Front end / User Interfaces for your web applications",
     "⚡ Integration of third party services such as AWS"
   ],
-
-/* Make Sure You include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
@@ -68,14 +63,14 @@ https://fontawesome.com/icons?d=gallery */
   ]
 };
 
-// Your top 3 proficient stacks/tech experience
+// Top 3 proficient stacks/tech experience
 
 const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design",  //Insert stack or technology you have experience in
-      progressPercentage: "70%"  //Insert relative proficiency in percentage
+      Stack: "Frontend/Design",  
+      progressPercentage: "70%" 
     },
     {
       Stack: "Backend",
@@ -88,8 +83,7 @@ const techStack = {
   ]
 };
 
-/* Your Open Source Section to View Your Github Pinned Projects
-To know how to get github key look at readme.md */
+// Open Source Section to View Github Pinned Projects 
 
 const openSource = {
   githubConvertedToken: "YmY2ZGVjYzZhMjY0MjExNWQ1MDlmMGE0NzYwZDllZGY5NzIyZWRiZg==",
